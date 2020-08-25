@@ -21,3 +21,7 @@ playerBtn.forEach((btn, i) => {
         playerBlock[i].classList.add('active');
     })
 })
+
+radioPlayerInit();
+videoPlayerInit();
+musicPlayerInit();
